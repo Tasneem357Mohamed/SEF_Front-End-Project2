@@ -85,11 +85,11 @@ body
 }
 .na1 ul li,
 .icon-wrapper {
-    box-sizing: border-box; /* Include padding/margins in height */
+    box-sizing: border-box; 
 }
 .na1 .na1-right-list li a,
 .icon-wrapper {
-    height: 30px !important; /* Force height to override any collapse */
+    height: 30px !important; 
 }
 .na1 ul li a 
 {
@@ -107,8 +107,8 @@ body
     z-index: 1000;
 }
 .na1 .na1-right-list li a {
-    position: relative; /* Ensure positioning */
-    height: 30px; /* Explicit height */
+    position: relative; 
+    height: 30px; 
     display: inline-flex;
     align-items: center;
 }
@@ -130,7 +130,7 @@ body
     display: inline-block;
     transition: transform 1s;
     padding: 0 10px;
-    height: 30px; /* Explicit height */
+    height: 30px; 
     display: inline-flex;
     align-items: center;
 }
@@ -909,7 +909,6 @@ body
 {
     justify-content: center;
     align-items: center;
-    /* text-align: center; */
 }
 .sec4 img
 {
