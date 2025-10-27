@@ -1,4 +1,4 @@
-# 🌿 OliveBloom – Elegant Olive & Mediterranean Products Landing Page
+# 🌿 OliveBloom – Elegant Olive & Mediterranean Products
 
 **From Nature’s Essence to Your Screen: Modern Front-End Design with Mediterranean Spirit**
 
@@ -9,7 +9,7 @@ This repository showcases a modern, visually rich **e-commerce landing page** de
 
 ## 🫒 About the Project
 
-**OliveBloom** was created as a training project to practice and demonstrate proficiency in **HTML5**, **CSS3**, and **CSS animations**, while preparing to transition into modern front-end frameworks like **React**.
+**OliveBloom** was created as a training project to practice and demonstrate proficiency in **HTML5**, **CSS3**, and **CSS animations**.
 
 This project focuses on combining **clean design**, **interactive motion**, and **semantic web structure** to build a smooth, engaging user experience.
 
@@ -28,7 +28,6 @@ This project focuses on combining **clean design**, **interactive motion**, and 
 - **HTML5** → Semantic and accessible structure  
 - **CSS3** → Advanced styling with Flexbox, Grid, and custom variables  
 - **CSS Animations / Transitions** → For fluid, visually engaging interactions  
-- *(Optional Preview)* **React (Concept Stage)** → Early application of component-based thinking  
 
 ---
 
@@ -36,27 +35,15 @@ This project focuses on combining **clean design**, **interactive motion**, and 
 
 Through this project, I gained hands-on experience with:
 
-- ✅ Designing and structuring a **responsive, mobile-first** website  
 - ✅ Creating **custom CSS animations** and transitions for interactive elements  
 - ✅ Applying modern **layout systems** (Flexbox & Grid) effectively  
-- ✅ Building with a mindset ready for **React integration** and reusability  
-- ✅ Crafting a consistent **visual identity** across sections and components  
 
 ---
 
 ## 🖼️ Preview
 
 *(Add your GitHub Pages or Netlify live link here)*  
-> Example: [Live Demo – OliveBloom](https://yourusername.github.io/olivebloom)
-
----
-
-## 🧩 Future Enhancements
-
-- 🛒 Add a **shopping cart** and simulated checkout process  
-- 💬 Implement a **contact form** with form validation  
-- ⚙️ Introduce **React components** for product sections  
-- 📱 Improve advanced **responsive breakpoints** for tablets and large screens  
+> Example: [Live Demo – OliveBloom](https://tasneem357mohamed.github.io/SEF_Front-End-Project2/)
 
 ---
 
@@ -72,7 +59,7 @@ Developed during the **Front-End Development Course** at **SEF Academy**, this p
 
 ## 👩‍💻 Author
 
-**Tasneem Mohamed (Nemo)**  
+**Tasneem Mohamed**  
 Front-End Developer Trainee @ **SEF Academy**  
 📍 Egypt  
 
